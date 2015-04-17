@@ -21,7 +21,7 @@ description: "Let's get together and lead a school"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-
+google_analytics_key: UA-3257259-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 ### template colors, used site-wide via css ###
 colors:
